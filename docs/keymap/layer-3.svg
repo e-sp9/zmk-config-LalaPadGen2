@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="838" viewBox="0 0 1104 838" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="888" viewBox="0 0 1104 888" role="img" aria-labelledby="title desc">
 <title id="title">Layer 3 — system_layer</title>
 <desc id="desc">全キーの割り当て。hold は長押し、▽ は下位レイヤー、— は未割り当て。</desc>
-<!-- Source SHA256: c4f963dd5de859b01c6acaeaa1e54aa505daea4c18da38560904afdcc3f4f1cc -->
-<rect width="1104" height="838" fill="#f5f7fa"/>
+<!-- Source SHA256: 98b54fb79f3e4e19e6c72eb8685910529efdd37c13a54121d54edb43142acb4d -->
+<rect width="1104" height="888" fill="#f5f7fa"/>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK JP, Hiragino Sans, sans-serif">
 <text x="24" y="36" text-anchor="start" font-size="24" fill="#182532">Layer 3 · system_layer</text>
 <text x="24" y="64" text-anchor="start" font-size="14" fill="#526171">hold: 長押し   /   ▽ 下位レイヤー   /   — 未割り当て   /   Num テンキー</text>
@@ -217,5 +217,6 @@
 <text x="24" y="737" text-anchor="start" font-size="15" fill="#182532">コンボ（通常レイヤー上のキー位置）</text>
 <text x="24" y="763" text-anchor="start" font-size="15" fill="#182532">Q + W → Esc</text>
 <text x="24" y="787" text-anchor="start" font-size="15" fill="#182532">A + S → Tab</text>
+<text x="24" y="838" text-anchor="start" font-size="15" fill="#345d8a">左右の1本指: タップ → 200 ms以内に再接触 → 保持して移動でドラッグ、離すとドロップ。</text>
 </g>
 </svg>
