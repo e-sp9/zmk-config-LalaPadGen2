@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="886" viewBox="0 0 1104 886" role="img" aria-labelledby="title desc">
+<title id="title">Layer 0 — Default</title>
+<desc id="desc">全キーの割り当て。hold は長押し、▽ は下位レイヤー、— は未割り当て。</desc>
+<!-- Source SHA256: 718afc96e65aafec155599f8b40cdc9481e969de011935bc62926c93209ce239 -->
+<rect width="1104" height="886" fill="#f5f7fa"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK JP, Hiragino Sans, sans-serif">
+<text x="24" y="36" text-anchor="start" font-size="24" fill="#182532">Layer 0 · Default</text>
+<text x="24" y="64" text-anchor="start" font-size="14" fill="#526171">hold: 長押し   /   ▽ 下位レイヤー   /   — 未割り当て   /   Num テンキー</text>
+<g><title>&amp;kp Q</title><rect x="24" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="144" text-anchor="middle" font-size="15" fill="#182532">Q</text>
+</g>
+<g><title>&amp;kp W</title><rect x="112" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="144" text-anchor="middle" font-size="15" fill="#182532">W</text>
+</g>
+<g><title>&amp;kp E</title><rect x="200" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="144" text-anchor="middle" font-size="15" fill="#182532">E</text>
+</g>
+<g><title>&amp;kp R</title><rect x="288" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="144" text-anchor="middle" font-size="15" fill="#182532">R</text>
+</g>
+<g><title>&amp;kp T</title><rect x="376" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="144" text-anchor="middle" font-size="15" fill="#182532">T</text>
+</g>
+<g><title>&amp;kp Y</title><rect x="640" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="681" y="144" text-anchor="middle" font-size="15" fill="#182532">Y</text>
+</g>
+<g><title>&amp;kp U</title><rect x="728" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="144" text-anchor="middle" font-size="15" fill="#182532">U</text>
+</g>
+<g><title>&amp;kp I</title><rect x="816" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="144" text-anchor="middle" font-size="15" fill="#182532">I</text>
+</g>
+<g><title>&amp;kp O</title><rect x="904" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="144" text-anchor="middle" font-size="15" fill="#182532">O</text>
+</g>
+<g><title>&amp;kp P</title><rect x="992" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="144" text-anchor="middle" font-size="15" fill="#182532">P</text>
+</g>
+<g><title>&amp;kp A</title><rect x="24" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="232" text-anchor="middle" font-size="15" fill="#182532">A</text>
+</g>
+<g><title>&amp;kp S</title><rect x="112" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="232" text-anchor="middle" font-size="15" fill="#182532">S</text>
+</g>
+<g><title>&amp;kp D</title><rect x="200" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="232" text-anchor="middle" font-size="15" fill="#182532">D</text>
+</g>
+<g><title>&amp;kp F</title><rect x="288" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="232" text-anchor="middle" font-size="15" fill="#182532">F</text>
+</g>
+<g><title>&amp;kp G</title><rect x="376" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="232" text-anchor="middle" font-size="15" fill="#182532">G</text>
+</g>
+<g><title>&amp;kp H</title><rect x="640" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="681" y="232" text-anchor="middle" font-size="15" fill="#182532">H</text>
+</g>
+<g><title>&amp;kp J</title><rect x="728" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="232" text-anchor="middle" font-size="15" fill="#182532">J</text>
+</g>
+<g><title>&amp;kp K</title><rect x="816" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="232" text-anchor="middle" font-size="15" fill="#182532">K</text>
+</g>
+<g><title>&amp;kp L</title><rect x="904" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="232" text-anchor="middle" font-size="15" fill="#182532">L</text>
+</g>
+<g><title>&amp;mt2 EQUAL MINUS</title><rect x="992" y="186" width="82" height="82" rx="7" fill="#e3efff" stroke="#bcc8d5"/>
+<text x="1033" y="224" text-anchor="middle" font-size="15" fill="#182532">−</text>
+<text x="1033" y="255" text-anchor="middle" font-size="12" fill="#345d8a">hold: =</text>
+</g>
+<g><title>&amp;mt2 LEFT_SHIFT Z</title><rect x="24" y="274" width="82" height="82" rx="7" fill="#e3efff" stroke="#bcc8d5"/>
+<text x="65" y="312" text-anchor="middle" font-size="15" fill="#182532">Z</text>
+<text x="65" y="343" text-anchor="middle" font-size="12" fill="#345d8a">hold: Shift</text>
+</g>
+<g><title>&amp;kp X</title><rect x="112" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="320" text-anchor="middle" font-size="15" fill="#182532">X</text>
+</g>
+<g><title>&amp;kp C</title><rect x="200" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="320" text-anchor="middle" font-size="15" fill="#182532">C</text>
+</g>
+<g><title>&amp;kp V</title><rect x="288" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="320" text-anchor="middle" font-size="15" fill="#182532">V</text>
+</g>
+<g><title>&amp;kp B</title><rect x="376" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="320" text-anchor="middle" font-size="15" fill="#182532">B</text>
+</g>
+<g><title>&amp;kp N</title><rect x="640" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="681" y="320" text-anchor="middle" font-size="15" fill="#182532">N</text>
+</g>
+<g><title>&amp;kp M</title><rect x="728" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="320" text-anchor="middle" font-size="15" fill="#182532">M</text>
+</g>
+<g><title>&amp;kp COMMA</title><rect x="816" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="320" text-anchor="middle" font-size="15" fill="#182532">,</text>
+</g>
+<g><title>&amp;kp PERIOD</title><rect x="904" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="320" text-anchor="middle" font-size="15" fill="#182532">.</text>
+</g>
+<g><title>&amp;kp SLASH</title><rect x="992" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="320" text-anchor="middle" font-size="15" fill="#182532">/</text>
+</g>
+<g><title>&amp;kp LCTRL</title><rect x="24" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="408" text-anchor="middle" font-size="15" fill="#182532">Ctrl</text>
+</g>
+<g><title>&amp;kp LWIN</title><rect x="112" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="408" text-anchor="middle" font-size="15" fill="#182532">Cmd</text>
+</g>
+<g><title>&amp;kp LEFT_ALT</title><rect x="200" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="408" text-anchor="middle" font-size="15" fill="#182532">Alt</text>
+</g>
+<g><title>&amp;kp LWIN</title><rect x="288" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="408" text-anchor="middle" font-size="15" fill="#182532">Cmd</text>
+</g>
+<g><title>&amp;lt 1 SPACE</title><rect x="376" y="362" width="82" height="82" rx="7" fill="#e3efff" stroke="#bcc8d5"/>
+<text x="417" y="400" text-anchor="middle" font-size="15" fill="#182532">Space</text>
+<text x="417" y="431" text-anchor="middle" font-size="12" fill="#345d8a">hold: L1</text>
+</g>
+<g><title>&amp;kp LEFT_SHIFT</title><rect x="464" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="505" y="408" text-anchor="middle" font-size="15" fill="#182532">Shift</text>
+</g>
+<g><title>&amp;kp BACKSPACE</title><rect x="552" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="593" y="408" text-anchor="middle" font-size="15" fill="#182532">BS</text>
+</g>
+<g><title>&amp;lt 2 ENTER</title><rect x="640" y="362" width="82" height="82" rx="7" fill="#e3efff" stroke="#bcc8d5"/>
+<text x="681" y="400" text-anchor="middle" font-size="15" fill="#182532">Enter</text>
+<text x="681" y="431" text-anchor="middle" font-size="12" fill="#345d8a">hold: L2</text>
+</g>
+<g><title>&amp;none</title><rect x="728" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="408" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;kp LANGUAGE_2</title><rect x="816" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="408" text-anchor="middle" font-size="15" fill="#182532">英数</text>
+</g>
+<g><title>&amp;kp LANGUAGE_1</title><rect x="904" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="408" text-anchor="middle" font-size="15" fill="#182532">かな</text>
+</g>
+<g><title>&amp;kp BACKSLASH</title><rect x="992" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="408" text-anchor="middle" font-size="15" fill="#182532">\</text>
+</g>
+<g><title>&amp;none</title><rect x="376" y="494" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="395" y="518" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;kp RIGHT</title><rect x="420" y="494" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="439" y="518" text-anchor="middle" font-size="15" fill="#182532">→</text>
+</g>
+<g><title>&amp;kp DOWN</title><rect x="376" y="538" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="395" y="562" text-anchor="middle" font-size="15" fill="#182532">↓</text>
+</g>
+<g><title>&amp;kp LEFT</title><rect x="332" y="494" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="351" y="518" text-anchor="middle" font-size="15" fill="#182532">←</text>
+</g>
+<g><title>&amp;kp UP</title><rect x="376" y="450" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="395" y="474" text-anchor="middle" font-size="15" fill="#182532">↑</text>
+</g>
+<g><title>&amp;kp UP</title><rect x="684" y="450" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="703" y="474" text-anchor="middle" font-size="15" fill="#182532">↑</text>
+</g>
+<g><title>&amp;kp LEFT</title><rect x="640" y="494" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="659" y="518" text-anchor="middle" font-size="15" fill="#182532">←</text>
+</g>
+<g><title>&amp;kp DOWN</title><rect x="684" y="538" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="703" y="562" text-anchor="middle" font-size="15" fill="#182532">↓</text>
+</g>
+<g><title>&amp;kp RIGHT</title><rect x="728" y="494" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="747" y="518" text-anchor="middle" font-size="15" fill="#182532">→</text>
+</g>
+<g><title>&amp;none</title><rect x="684" y="494" width="38" height="38" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="703" y="518" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;none</title><rect x="24" y="538" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="584" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;none</title><rect x="112" y="538" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="584" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;none</title><rect x="200" y="538" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="584" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;none</title><rect x="816" y="538" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="584" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;none</title><rect x="904" y="538" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="584" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;none</title><rect x="992" y="538" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="584" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;kp LC(LEFT)</title><rect x="24" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="672" text-anchor="middle" font-size="15" fill="#182532">Ctrl+←</text>
+</g>
+<g><title>&amp;kp LC(RIGHT)</title><rect x="112" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="672" text-anchor="middle" font-size="15" fill="#182532">Ctrl+→</text>
+</g>
+<g><title>&amp;kp LC(UP)</title><rect x="200" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="672" text-anchor="middle" font-size="15" fill="#182532">Ctrl+↑</text>
+</g>
+<g><title>&amp;none</title><rect x="288" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="672" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;none</title><rect x="376" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="672" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;kp LC(LEFT)</title><rect x="640" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="681" y="672" text-anchor="middle" font-size="15" fill="#182532">Ctrl+←</text>
+</g>
+<g><title>&amp;kp LC(RIGHT)</title><rect x="728" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="672" text-anchor="middle" font-size="15" fill="#182532">Ctrl+→</text>
+</g>
+<g><title>&amp;kp LC(UP)</title><rect x="816" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="672" text-anchor="middle" font-size="15" fill="#182532">Ctrl+↑</text>
+</g>
+<g><title>&amp;none</title><rect x="904" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="672" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<g><title>&amp;none</title><rect x="992" y="626" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="672" text-anchor="middle" font-size="15" fill="#182532">—</text>
+</g>
+<text x="24" y="737" text-anchor="start" font-size="15" fill="#182532">コンボ（通常レイヤー上のキー位置）</text>
+<text x="24" y="763" text-anchor="start" font-size="15" fill="#182532">Q + W → Esc</text>
+<text x="24" y="787" text-anchor="start" font-size="15" fill="#182532">A + S → Tab</text>
+<text x="24" y="811" text-anchor="start" font-size="15" fill="#182532">D + F → 英数</text>
+<text x="24" y="835" text-anchor="start" font-size="15" fill="#182532">J + K → かな</text>
+</g>
+</svg>

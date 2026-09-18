@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="838" viewBox="0 0 1104 838" role="img" aria-labelledby="title desc">
+<title id="title">Layer 1 — secondary_layer</title>
+<desc id="desc">全キーの割り当て。hold は長押し、▽ は下位レイヤー、— は未割り当て。</desc>
+<!-- Source SHA256: 718afc96e65aafec155599f8b40cdc9481e969de011935bc62926c93209ce239 -->
+<rect width="1104" height="838" fill="#f5f7fa"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK JP, Hiragino Sans, sans-serif">
+<text x="24" y="36" text-anchor="start" font-size="24" fill="#182532">Layer 1 · secondary_layer</text>
+<text x="24" y="64" text-anchor="start" font-size="14" fill="#526171">hold: 長押し   /   ▽ 下位レイヤー   /   — 未割り当て   /   Num テンキー</text>
+<g><title>&amp;kp NUMBER_1</title><rect x="24" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="144" text-anchor="middle" font-size="15" fill="#182532">1</text>
+</g>
+<g><title>&amp;kp NUMBER_2</title><rect x="112" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="144" text-anchor="middle" font-size="15" fill="#182532">2</text>
+</g>
+<g><title>&amp;kp NUMBER_3</title><rect x="200" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="144" text-anchor="middle" font-size="15" fill="#182532">3</text>
+</g>
+<g><title>&amp;kp NUMBER_4</title><rect x="288" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="144" text-anchor="middle" font-size="15" fill="#182532">4</text>
+</g>
+<g><title>&amp;kp N5</title><rect x="376" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="144" text-anchor="middle" font-size="15" fill="#182532">5</text>
+</g>
+<g><title>&amp;kp KP_NUMLOCK</title><rect x="640" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="681" y="144" text-anchor="middle" font-size="15" fill="#182532">Num Lock</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_7</title><rect x="728" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="144" text-anchor="middle" font-size="15" fill="#182532">Num 7</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_8</title><rect x="816" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="144" text-anchor="middle" font-size="15" fill="#182532">Num 8</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_9</title><rect x="904" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="144" text-anchor="middle" font-size="15" fill="#182532">Num 9</text>
+</g>
+<g><title>&amp;kp KP_PLUS</title><rect x="992" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="144" text-anchor="middle" font-size="15" fill="#182532">Num +</text>
+</g>
+<g><title>&amp;kp NUMBER_6</title><rect x="24" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="232" text-anchor="middle" font-size="15" fill="#182532">6</text>
+</g>
+<g><title>&amp;kp N7</title><rect x="112" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="232" text-anchor="middle" font-size="15" fill="#182532">7</text>
+</g>
+<g><title>&amp;kp N8</title><rect x="200" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="232" text-anchor="middle" font-size="15" fill="#182532">8</text>
+</g>
+<g><title>&amp;kp N9</title><rect x="288" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="232" text-anchor="middle" font-size="15" fill="#182532">9</text>
+</g>
+<g><title>&amp;kp N0</title><rect x="376" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="232" text-anchor="middle" font-size="15" fill="#182532">0</text>
+</g>
+<g><title>&amp;trans</title><rect x="640" y="186" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="681" y="232" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_4</title><rect x="728" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="232" text-anchor="middle" font-size="15" fill="#182532">Num 4</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_5</title><rect x="816" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="232" text-anchor="middle" font-size="15" fill="#182532">Num 5</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_6</title><rect x="904" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="232" text-anchor="middle" font-size="15" fill="#182532">Num 6</text>
+</g>
+<g><title>&amp;kp KP_MINUS</title><rect x="992" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="232" text-anchor="middle" font-size="15" fill="#182532">Num −</text>
+</g>
+<g><title>&amp;kp F6</title><rect x="24" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="320" text-anchor="middle" font-size="15" fill="#182532">F6</text>
+</g>
+<g><title>&amp;kp F7</title><rect x="112" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="320" text-anchor="middle" font-size="15" fill="#182532">F7</text>
+</g>
+<g><title>&amp;kp F8</title><rect x="200" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="320" text-anchor="middle" font-size="15" fill="#182532">F8</text>
+</g>
+<g><title>&amp;kp F9</title><rect x="288" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="320" text-anchor="middle" font-size="15" fill="#182532">F9</text>
+</g>
+<g><title>&amp;kp F10</title><rect x="376" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="320" text-anchor="middle" font-size="15" fill="#182532">F10</text>
+</g>
+<g><title>&amp;trans</title><rect x="640" y="274" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="681" y="320" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_1</title><rect x="728" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="320" text-anchor="middle" font-size="15" fill="#182532">Num 1</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_2</title><rect x="816" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="320" text-anchor="middle" font-size="15" fill="#182532">Num 2</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_3</title><rect x="904" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="320" text-anchor="middle" font-size="15" fill="#182532">Num 3</text>
+</g>
+<g><title>&amp;kp KP_ASTERISK</title><rect x="992" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="320" text-anchor="middle" font-size="15" fill="#182532">Num *</text>
+</g>
+<g><title>&amp;trans</title><rect x="24" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="65" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="112" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="153" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="200" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="241" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="288" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="329" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="417" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="464" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="505" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;kp DEL</title><rect x="552" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="593" y="408" text-anchor="middle" font-size="15" fill="#182532">Del</text>
+</g>
+<g><title>&amp;trans</title><rect x="640" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="681" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="728" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="769" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;kp KP_NUMBER_0</title><rect x="816" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="408" text-anchor="middle" font-size="15" fill="#182532">Num 0</text>
+</g>
+<g><title>&amp;kp KP_DOT</title><rect x="904" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="408" text-anchor="middle" font-size="15" fill="#182532">Num .</text>
+</g>
+<g><title>&amp;kp KP_DIVIDE</title><rect x="992" y="362" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="408" text-anchor="middle" font-size="15" fill="#182532">Num /</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="395" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="420" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="439" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="538" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="395" y="562" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="332" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="351" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="450" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="395" y="474" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="684" y="450" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="703" y="474" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="640" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="659" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="684" y="538" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="703" y="562" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="728" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="747" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="684" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="703" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="24" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="65" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="112" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="153" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="200" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="241" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="816" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="857" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="904" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="945" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="992" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="1033" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="24" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="65" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="112" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="153" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="200" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="241" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="288" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="329" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="417" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="640" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="681" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="728" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="769" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="816" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="857" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="904" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="945" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="992" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="1033" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<text x="24" y="737" text-anchor="start" font-size="15" fill="#182532">コンボ（通常レイヤー上のキー位置）</text>
+<text x="24" y="763" text-anchor="start" font-size="15" fill="#182532">Q + W → Esc</text>
+<text x="24" y="787" text-anchor="start" font-size="15" fill="#182532">A + S → Tab</text>
+</g>
+</svg>

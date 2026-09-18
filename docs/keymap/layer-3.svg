@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="838" viewBox="0 0 1104 838" role="img" aria-labelledby="title desc">
+<title id="title">Layer 3 — system_layer</title>
+<desc id="desc">全キーの割り当て。hold は長押し、▽ は下位レイヤー、— は未割り当て。</desc>
+<!-- Source SHA256: 718afc96e65aafec155599f8b40cdc9481e969de011935bc62926c93209ce239 -->
+<rect width="1104" height="838" fill="#f5f7fa"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK JP, Hiragino Sans, sans-serif">
+<text x="24" y="36" text-anchor="start" font-size="24" fill="#182532">Layer 3 · system_layer</text>
+<text x="24" y="64" text-anchor="start" font-size="14" fill="#526171">hold: 長押し   /   ▽ 下位レイヤー   /   — 未割り当て   /   Num テンキー</text>
+<g><title>&amp;kp F1</title><rect x="24" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="144" text-anchor="middle" font-size="15" fill="#182532">F1</text>
+</g>
+<g><title>&amp;kp F2</title><rect x="112" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="144" text-anchor="middle" font-size="15" fill="#182532">F2</text>
+</g>
+<g><title>&amp;kp F3</title><rect x="200" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="144" text-anchor="middle" font-size="15" fill="#182532">F3</text>
+</g>
+<g><title>&amp;kp F4</title><rect x="288" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="144" text-anchor="middle" font-size="15" fill="#182532">F4</text>
+</g>
+<g><title>&amp;kp F5</title><rect x="376" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="144" text-anchor="middle" font-size="15" fill="#182532">F5</text>
+</g>
+<g><title>&amp;out OUT_TOG</title><rect x="640" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="681" y="144" text-anchor="middle" font-size="15" fill="#182532">出力切替</text>
+</g>
+<g><title>&amp;bt BT_SEL 0</title><rect x="728" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="144" text-anchor="middle" font-size="15" fill="#182532">BT 1</text>
+</g>
+<g><title>&amp;bt BT_SEL 1</title><rect x="816" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="144" text-anchor="middle" font-size="15" fill="#182532">BT 2</text>
+</g>
+<g><title>&amp;bt BT_SEL 2</title><rect x="904" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="144" text-anchor="middle" font-size="15" fill="#182532">BT 3</text>
+</g>
+<g><title>&amp;bt BT_SEL 3</title><rect x="992" y="98" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="144" text-anchor="middle" font-size="15" fill="#182532">BT 4</text>
+</g>
+<g><title>&amp;kp F6</title><rect x="24" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="232" text-anchor="middle" font-size="15" fill="#182532">F6</text>
+</g>
+<g><title>&amp;kp F7</title><rect x="112" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="232" text-anchor="middle" font-size="15" fill="#182532">F7</text>
+</g>
+<g><title>&amp;kp F8</title><rect x="200" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="232" text-anchor="middle" font-size="15" fill="#182532">F8</text>
+</g>
+<g><title>&amp;kp F9</title><rect x="288" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="232" text-anchor="middle" font-size="15" fill="#182532">F9</text>
+</g>
+<g><title>&amp;kp F10</title><rect x="376" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="232" text-anchor="middle" font-size="15" fill="#182532">F10</text>
+</g>
+<g><title>&amp;sys_reset</title><rect x="640" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="681" y="232" text-anchor="middle" font-size="15" fill="#182532">再起動</text>
+</g>
+<g><title>&amp;bootloader</title><rect x="728" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="223.5" text-anchor="middle" font-size="15" fill="#182532">書込モー</text>
+<text x="769" y="240.5" text-anchor="middle" font-size="15" fill="#182532">ド</text>
+</g>
+<g><title>&amp;bt BT_CLR</title><rect x="816" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="232" text-anchor="middle" font-size="15" fill="#182532">BT消去</text>
+</g>
+<g><title>&amp;bt BT_CLR_ALL</title><rect x="904" y="186" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="232" text-anchor="middle" font-size="15" fill="#182532">BT全消去</text>
+</g>
+<g><title>&amp;trans</title><rect x="992" y="186" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="1033" y="232" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;kp F11</title><rect x="24" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="65" y="320" text-anchor="middle" font-size="15" fill="#182532">F11</text>
+</g>
+<g><title>&amp;kp F12</title><rect x="112" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="153" y="320" text-anchor="middle" font-size="15" fill="#182532">F12</text>
+</g>
+<g><title>&amp;kp F13</title><rect x="200" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="241" y="320" text-anchor="middle" font-size="15" fill="#182532">F13</text>
+</g>
+<g><title>&amp;kp F14</title><rect x="288" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="329" y="320" text-anchor="middle" font-size="15" fill="#182532">F14</text>
+</g>
+<g><title>&amp;kp F15</title><rect x="376" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="417" y="320" text-anchor="middle" font-size="15" fill="#182532">F15</text>
+</g>
+<g><title>&amp;zip_dyn_scale ZDS_XY ZDS_INC</title><rect x="640" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="681" y="320" text-anchor="middle" font-size="15" fill="#182532">移動+</text>
+</g>
+<g><title>&amp;zip_dyn_scale ZDS_XY ZDS_DEC</title><rect x="728" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="769" y="320" text-anchor="middle" font-size="15" fill="#182532">移動−</text>
+</g>
+<g><title>&amp;zip_dyn_scale ZDS_SC ZDS_INC</title><rect x="816" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="857" y="311.5" text-anchor="middle" font-size="15" fill="#182532">スクロー</text>
+<text x="857" y="328.5" text-anchor="middle" font-size="15" fill="#182532">ル+</text>
+</g>
+<g><title>&amp;zip_dyn_scale ZDS_SC ZDS_DEC</title><rect x="904" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="945" y="311.5" text-anchor="middle" font-size="15" fill="#182532">スクロー</text>
+<text x="945" y="328.5" text-anchor="middle" font-size="15" fill="#182532">ル−</text>
+</g>
+<g><title>&amp;zip_dyn_scale ZDS_ALL ZDS_RST</title><rect x="992" y="274" width="82" height="82" rx="7" fill="#ffffff" stroke="#bcc8d5"/>
+<text x="1033" y="311.5" text-anchor="middle" font-size="15" fill="#182532">全倍率初</text>
+<text x="1033" y="328.5" text-anchor="middle" font-size="15" fill="#182532">期化</text>
+</g>
+<g><title>&amp;trans</title><rect x="24" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="65" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="112" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="153" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="200" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="241" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="288" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="329" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="417" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="464" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="505" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="552" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="593" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="640" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="681" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="728" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="769" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="816" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="857" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="904" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="945" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="992" y="362" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="1033" y="408" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="395" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="420" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="439" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="538" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="395" y="562" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="332" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="351" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="450" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="395" y="474" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="684" y="450" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="703" y="474" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="640" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="659" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="684" y="538" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="703" y="562" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="728" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="747" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="684" y="494" width="38" height="38" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="703" y="518" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="24" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="65" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="112" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="153" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="200" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="241" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="816" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="857" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="904" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="945" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="992" y="538" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="1033" y="584" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="24" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="65" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="112" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="153" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="200" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="241" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="288" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="329" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="376" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="417" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="640" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="681" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="728" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="769" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="816" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="857" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="904" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="945" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<g><title>&amp;trans</title><rect x="992" y="626" width="82" height="82" rx="7" fill="#edf0f4" stroke="#bcc8d5"/>
+<text x="1033" y="672" text-anchor="middle" font-size="15" fill="#182532">▽</text>
+</g>
+<text x="24" y="737" text-anchor="start" font-size="15" fill="#182532">コンボ（通常レイヤー上のキー位置）</text>
+<text x="24" y="763" text-anchor="start" font-size="15" fill="#182532">Q + W → Esc</text>
+<text x="24" y="787" text-anchor="start" font-size="15" fill="#182532">A + S → Tab</text>
+</g>
+</svg>

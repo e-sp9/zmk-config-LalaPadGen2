@@ -57,6 +57,20 @@
             bindings = <&kp TAB>;
             key-positions = <10 11>;
         };
+
+        COMBO_EISU {
+            timeout-ms = <50>;
+            bindings = <&kp LANGUAGE_2>;
+            key-positions = <12 13>; // D + F
+            layers = <DEFAULT_LAYER>;
+        };
+
+        COMBO_KANA {
+            timeout-ms = <50>;
+            bindings = <&kp LANGUAGE_1>;
+            key-positions = <16 17>; // J + K
+            layers = <DEFAULT_LAYER>;
+        };
     };
 
     keymap {
@@ -64,14 +78,17 @@
 
         DEFAULT_LAYER {
             display-name = "Default";
+            // IQS9151 v1.0.0: BTN_3 = swipe right, BTN_4 = swipe left,
+            // BTN_5 = swipe up. Match macOS: Ctrl+Left / Ctrl+Right / Ctrl+Up.
+            // Tap buttons, swipe down and pinch have no action.
             bindings = <
 &kp Q              &kp W      &kp E         &kp R      &kp T                                     &kp Y      &kp U     &kp I           &kp O           &kp P
 &kp A              &kp S      &kp D         &kp F      &kp G                                     &kp H      &kp J     &kp K           &kp L           &mt2 EQUAL MINUS
 &mt2 LEFT_SHIFT Z  &kp X      &kp C         &kp V      &kp B                                     &kp N      &kp M     &kp COMMA       &kp PERIOD      &kp SLASH
-&kp LCTRL          &kp LWIN   &kp LEFT_ALT  &mo 1      &kp SPACE  &kp LEFT_SHIFT  &kp BACKSPACE  &kp ENTER  &mo 2     &kp LANGUAGE_2  &kp LANGUAGE_1  &kp BACKSLASH
+&kp LCTRL          &kp LWIN   &kp LEFT_ALT  &kp LWIN   &lt 1 SPACE  &kp LEFT_SHIFT  &kp BACKSPACE  &lt 2 ENTER  &none     &kp LANGUAGE_2  &kp LANGUAGE_1  &kp BACKSLASH
                    &none      &kp RIGHT     &kp DOWN   &kp LEFT   &kp UP          &kp UP         &kp LEFT   &kp DOWN  &kp RIGHT       &none
-&mkp LCLK          &mkp RCLK  &mkp MCLK                                                                               &mkp LCLK       &mkp RCLK       &mkp MCLK
-&mkp MB4           &mkp MB5   &kp LG(TAB)   &kp LG(D)  &kp LCTRL                                 &mkp MB4   &mkp MB5  &kp LG(TAB)     &kp LG(D)       &kp LCTRL
+&none              &none      &none                                                                                   &none           &none           &none
+&kp LC(LEFT)       &kp LC(RIGHT)  &kp LC(UP)  &none  &none                                      &kp LC(LEFT)  &kp LC(RIGHT)  &kp LC(UP)  &none  &none
             >;
         };
 
@@ -84,7 +101,7 @@
 &trans            &trans             &trans        &trans        &trans   &trans  &kp DEL  &trans            &trans             &kp KP_NUMBER_0  &kp KP_DOT       &kp KP_DIVIDE
                   &trans             &trans        &trans        &trans   &trans  &trans   &trans            &trans             &trans           &trans
 &trans            &trans             &trans                                                                                     &trans           &trans           &trans
-&kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans        &trans        &trans                    &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans           &trans           &trans
+&trans            &trans             &trans        &trans        &trans                    &trans            &trans             &trans           &trans           &trans
             >;
         };
 
