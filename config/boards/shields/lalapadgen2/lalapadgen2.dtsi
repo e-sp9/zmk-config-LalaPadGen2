@@ -164,7 +164,7 @@
                            // Apply user gain before downscaling small movements.
                            <&zip_dynamic_xy_scaler>,
                            <&zip_dynamic_scroll_scaler>,
-                           <&zip_xy_scaler 1 4>,
+                           <&zip_xy_scaler 3 11>,
                            <&zip_scroll_scaler 1 12>;
         lowspeedmode {
             layers = <1>,<2>;
@@ -174,7 +174,7 @@
                                 <&zip_dynamic_scroll_scaler>,
                                 // One-third cursor speed; scroll stays at 1/40.
                                 // Keep each scaler divisor within ZMK's 1..16 guidance.
-                                <&zip_xy_scaler 1 12>,
+                                <&zip_xy_scaler 1 11>,
                                 <&zip_scroll_scaler 1 4>,
                                 <&zip_scroll_scaler 1 10>;
         };
@@ -188,7 +188,7 @@
                            // Apply user gain before downscaling small movements.
                            <&zip_dynamic_xy_scaler>,
                            <&zip_dynamic_scroll_scaler>,
-                           <&zip_xy_scaler 1 4>,
+                           <&zip_xy_scaler 3 11>,
                            <&zip_scroll_scaler 1 12>;
         lowspeedmode {
             layers = <1>,<2>;
@@ -198,7 +198,7 @@
                                 <&zip_dynamic_scroll_scaler>,
                                 // One-third cursor speed; scroll stays at 1/40.
                                 // Keep each scaler divisor within ZMK's 1..16 guidance.
-                                <&zip_xy_scaler 1 12>,
+                                <&zip_xy_scaler 1 11>,
                                 <&zip_scroll_scaler 1 4>,
                                 <&zip_scroll_scaler 1 10>;
         };
